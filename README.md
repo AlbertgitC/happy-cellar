@@ -1,6 +1,6 @@
 # Happy Cellar
 
-A prototype wine cellar centrol control that may expand into smart homne system.
+A prototype wine cellar centrol control that may expand into smart home system.
 
 ## Centrol Control
 * A local display panel with control options for monitoring and controlling wine cellar's conditions, it may also incorporate incoming bonus features.
