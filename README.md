@@ -1,15 +1,25 @@
 # Happy Cellar
 
-A prototype wine cellar centrol control that may expand into smart home system.
-
-## Centrol Control
-* A remote display and touch panel with control options for monitoring and controlling wine cellar's conditions, it may also incorporate incoming bonus features.
-* Local display panel with touch input, internet(WiFi) compatibility.
-* Accessible  with mobile app.
-* Data base solution.
+A prototype wine cellar system with local on-device and remote APP access of enviroment monitoring and controling
 
 ## Features
-**Wine Cellar**
-* Deploy temperature sensors, temperature control mechanicts to display cellar temperature with control options.
-* Deploy humidity sensors, humidity control mechanicts to display cellar humidity with control options.
+**Control and Monitor**
+* Instant temperature feedback, temperature control, temperature display overtime log
+* Instant humidity feedback, humidity control, humidity display overtime log
+* Full access through APP and online
+* Supported cellar size: T.B.A. cubic feet
+* (optional) cellar door open count and alert
+* (optional) cellar wine inventory system
+
+## Design Specfics
+**On-Device (local) Control**
+* An x-inch LCD display and touch panel input for monitor and control options of wine cellar's conditions.
+* Internet(WiFi) compatibility for data logs
+* Data base solution
+* Actual hardware
+
+## APP (remote) Control
+* Access datalog for instant monitoring
+* Control setting
+* Condition alert
 
