@@ -23,5 +23,6 @@ A prototype wine cellar system with local on-device and remote APP access of env
 * Control setting
 * Condition alert
 
-## Competitor Info
+## Competitor Info and Product Feature Reference
 https://winecoolersempire.com/collections/wine-cellar-coolers
+* Brands: WHISPERCOOL, BREEZAIRE
