@@ -23,3 +23,5 @@ A prototype wine cellar system with local on-device and remote APP access of env
 * Control setting
 * Condition alert
 
+## Competitor Info
+https://winecoolersempire.com/collections/wine-cellar-coolers
