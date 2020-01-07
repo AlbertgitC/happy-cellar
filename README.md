@@ -18,7 +18,7 @@ A prototype wine cellar system with local on-device and remote APP access of env
 * Data base solution
 * Actual hardware
 
-## APP (remote) Control
+** APP (remote) Control**
 * Access datalog for instant monitoring
 * Control setting
 * Condition alert
