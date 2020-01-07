@@ -11,7 +11,7 @@ A prototype wine cellar system with local on-device and remote APP access of env
 * (optional) cellar door open count and alert
 * (optional) cellar wine inventory system
 
-## Design Specfics
+## Design Specifics
 **On-Device (local) Control**
 * An x-inch LCD display and touch panel input for monitor and control options of wine cellar's conditions.
 * Internet(WiFi) compatibility for data logs
