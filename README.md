@@ -10,6 +10,8 @@ A prototype wine cellar system with local on-device and remote APP access of env
 * Supported cellar size: T.B.A. cubic feet
 * (optional) cellar door open count and alert
 * (optional) cellar wine inventory system
+* (optional) cellar control montion sensor
+* (optional) cellar real time video streaming
 
 ## Design Specifics
 **On-Device (local) Control**
@@ -17,7 +19,8 @@ A prototype wine cellar system with local on-device and remote APP access of env
 * An x-inch touch panel for control input of wine cellar's conditions
 * Internet(WiFi) compatibility for data logs
 * Database solution
-** Actual hardware
+* Sensor: temperature, humidity, (magnet, motion, and camera)
+* Conditioning: heater, cooler, hunidifier, dehumidiier
 
 **APP (remote) Control**
 * Access datalog for instant monitoring
