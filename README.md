@@ -13,10 +13,11 @@ A prototype wine cellar system with local on-device and remote APP access of env
 
 ## Design Specifics
 **On-Device (local) Control**
-* An x-inch LCD display and touch panel input for monitor and control options of wine cellar's conditions.
+* An x-inch LCD display for mointor of wine cellar's conditions
+* An x-inch touch panel for control input of wine cellar's conditions
 * Internet(WiFi) compatibility for data logs
-* Data base solution
-* Actual hardware
+* Database solution
+** Actual hardware
 
 **APP (remote) Control**
 * Access datalog for instant monitoring
