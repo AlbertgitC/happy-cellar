@@ -21,6 +21,7 @@ A prototype wine cellar system with local on-device and remote APP access of env
 * Database solution
 * Sensor: temperature, humidity, (magnet, motion, and camera)
 * Conditioning: heater, cooler, hunidifier, dehumidiier
+* Other: Casing, power supply
 
 **APP (remote) Control**
 * Access datalog for instant monitoring
